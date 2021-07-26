@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ... Java
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Tushar](gargtushar460@gmail.com)
+- 📫 How to reach me: ... [Tushar](mailto:gargtushar460@gmail.com)
 
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar2805garg&show_icons=true)
